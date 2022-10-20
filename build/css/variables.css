@@ -1,9 +1,12 @@
 /**
  * Do not edit directly
- * Generated on Thu, 20 Oct 2022 00:40:25 GMT
+ * Generated on Thu, 20 Oct 2022 00:47:41 GMT
  */
 
 :root {
+  --size-2: 8rem;
+  --size-4: 32rem;
+  --size-8: 16rem;
   --color-white: #ffffff;
   --color-zinc-200: #e4e4e7;
   --color-zinc-500: #71717a;

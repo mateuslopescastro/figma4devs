@@ -1,9 +1,12 @@
 /**
  * Do not edit directly
- * Generated on Thu, 20 Oct 2022 00:40:25 GMT
+ * Generated on Thu, 20 Oct 2022 00:47:41 GMT
  */
 
 module.exports = {
+  "Size2": "8rem",
+  "Size4": "32rem",
+  "Size8": "16rem",
   "ColorWhite": "#ffffff",
   "ColorZinc200": "#e4e4e7",
   "ColorZinc500": "#71717a",
